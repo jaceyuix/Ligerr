@@ -1,9 +1,5 @@
 <body><!DOCTYPE html>
   <html>
-  <head>
-    <title>Liger</title>
-  </head>
-
   <body>
     <nav>
     </nav>
